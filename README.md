@@ -1,5 +1,5 @@
 # Formulário de Contato
-Esse foi meu primeiro formulário usando somente HTML e CSS.
+* Esse foi meu primeiro formulário usando somente HTML e CSS.
 
 ## Código HTML:
 ```bash
